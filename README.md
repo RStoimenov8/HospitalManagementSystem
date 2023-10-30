@@ -13,5 +13,5 @@ This Hospital Management System is a software solution for managing patient reco
 
 ### Prerequisites
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (version X.X or higher)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (version 7.0 or higher)
 - [Git](https://git-scm.com/downloads)
